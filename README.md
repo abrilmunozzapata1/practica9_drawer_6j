@@ -17,3 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- #Mi drawer y sus caracteristicas
+- ![image](https://github.com/abrilmunozzapata1/practica9_drawer_6j/assets/143549033/3743c593-efaf-4055-bae7-bdcd5b07a83c)
+- ![image](https://github.com/abrilmunozzapata1/practica9_drawer_6j/assets/143549033/4af6f172-e9a2-451d-ad1d-78c6afbe91d0)
+
+- #link referencia
+- https://appmaking.com/flutter-drawer-example/
+
+
+
