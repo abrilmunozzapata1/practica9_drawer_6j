@@ -20,7 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 
 - #Mi drawer y sus caracteristicas
 - ![image](https://github.com/abrilmunozzapata1/practica9_drawer_6j/assets/143549033/3743c593-efaf-4055-bae7-bdcd5b07a83c)
-- ![image](https://github.com/abrilmunozzapata1/practica9_drawer_6j/assets/143549033/4af6f172-e9a2-451d-ad1d-78c6afbe91d0)
+-![image](https://github.com/abrilmunozzapata1/practica9_drawer_6j/assets/143549033/941ffe40-b121-4550-9034-3692a8c59113)
+
 
 - #link referencia
 - https://appmaking.com/flutter-drawer-example/
